@@ -6,7 +6,7 @@
 
 #### 👩‍💼Client Setup
 
-*ℹ️ This document should be sent to the client. It contians all of the steps required for the client to configure their S3 bucket to accept cross region replicated data from a Linkfire S3 bucket.*
+*ℹ️ This document should be sent to the client. It contains all of the steps required for the client to configure their S3 bucket to accept cross region replicated data from a Linkfire S3 bucket.*
 
 
 
